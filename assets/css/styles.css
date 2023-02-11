@@ -2283,7 +2283,10 @@ section {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
-
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
 .solid-btn {
   --tw-bg-opacity: 1;
   background-color: #9a83b2;
